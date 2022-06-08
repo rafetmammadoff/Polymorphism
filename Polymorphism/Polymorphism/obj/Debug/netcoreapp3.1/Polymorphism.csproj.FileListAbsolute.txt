@@ -1,0 +1,14 @@
+C:\Users\profe\Desktop\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.exe
+C:\Users\profe\Desktop\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.deps.json
+C:\Users\profe\Desktop\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.json
+C:\Users\profe\Desktop\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.dev.json
+C:\Users\profe\Desktop\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Users\profe\Desktop\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\profe\Desktop\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\profe\Desktop\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profe\Desktop\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\profe\Desktop\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
+C:\Users\profe\Desktop\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Users\profe\Desktop\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\profe\Desktop\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.genruntimeconfig.cache
